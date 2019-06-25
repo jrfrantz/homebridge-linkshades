@@ -1,0 +1,29 @@
+{
+  "name": "homebridge-linkshades",
+  "version": "1.0.0",
+  "description": "homebridge plugin to control wifi shades",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "window",
+    "covering",
+    "blackout",
+    "blinds",
+    "blinds",
+    "shades",
+    "blackout",
+    "shades"
+  ],
+  "author": "jacob frantz",
+  "license": "ISC",
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "linkshades": "^1.2.1"
+  }
+}
